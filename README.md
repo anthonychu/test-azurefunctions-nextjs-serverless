@@ -1,10 +1,12 @@
-Build next.js app ()
+Build next.js app
 
 ```
 # run in repo root
 npm install
 npm run build
 ```
+
+Run start function app
 
 ```
 cd azurefunctions
