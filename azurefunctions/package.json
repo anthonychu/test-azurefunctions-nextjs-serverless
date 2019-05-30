@@ -1,0 +1,13 @@
+{
+  "name": "azurefunctions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mime-types": "^2.1.24",
+    "mock-res": "^0.5.0"
+  },
+  "devDependencies": {}
+}
